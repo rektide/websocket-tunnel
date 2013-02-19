@@ -1,0 +1,29 @@
+{
+  "name": "websocket-tunnel",
+  "version": "100.101.102",
+  "description": "incredi-humongo tunnely magicy wavelly wobbely tcp connection tunneling on websockets stuff as a command line service",
+  "main": "server.js",
+  "dependencies": {
+    "optimist": "~0.3.1",
+    "wordwrap": "~0.0.2",
+    "websocket": "~1.0.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/sstur/node-websocket-tunnel"
+  },
+  "keywords": [
+    "websocket",
+    "tunnel",
+    "tcp"
+  ],
+  "author": "sstur",
+  "license": "UNKNOWN",
+  "readmeFilename": "readme.md",
+  "gitHead": "4bbfe8fdf1e8eba052ff178ba13b304568701d94"
+}
